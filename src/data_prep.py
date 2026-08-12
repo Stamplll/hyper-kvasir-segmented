@@ -17,7 +17,7 @@ import zipfile
 from pathlib import Path
 
 import cv2
-import yaml  # ต้องเพิ่ม pyyaml ใน requirements.txt
+import yaml  
 
 RANDOM_SEED = 42
 SPLIT_RATIOS = {"train": 0.7, "val": 0.2, "test": 0.1}

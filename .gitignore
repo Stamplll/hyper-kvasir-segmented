@@ -209,6 +209,7 @@ data/raw_dataset/
 data/processed/
 runs/
 weights/
+hyper-kvasir-segmented/
 
 # Ruff stuff:
 .ruff_cache/
